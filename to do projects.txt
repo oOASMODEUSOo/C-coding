@@ -1,0 +1,11 @@
+list of the projects i can do;
+1. login and registeration system
+2. car rental system
+3. bookshop inventory system
+4. Student Report Management System
+5. Casino Number Guessing Game
+6. Sudoku Game
+7. Credit Card Validator
+8. Helicopter Game
+9. Using Graphics to Draw and Move Shapes
+10. 
